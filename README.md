@@ -1,16 +1,13 @@
-## Hi there 👋
+## Vo me matar 💛
 
-<!--
-**THY371528/THY371528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Marcelo Nogueira
 
-Here are some ideas to get you started:
+- Sou estudante do Alura
+- Odeio o Alura
+- Estou desenvolvendo na linguagem JavaScript
+- Odeio calvos
+- Odeio carecas
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Você não pode entrar em contato comigo 📫
+Não irie passar meu e-mail
